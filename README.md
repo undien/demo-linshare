@@ -17,7 +17,7 @@
 <li>Its can also contain some reusable steps for specific test cases that use data-driven or gherkin language on the same test files.</li>
 </ul>
 </li>
-<li><strong>resources.robot file</strong>
+<li><strong>resource folder</strong>
 <ul>
 <li>This is file for global setup or any reusable logic or steps that used all of steps or tests file.</li>
 </ul>
