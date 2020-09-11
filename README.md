@@ -2,19 +2,18 @@
 <ul>
 <li><strong>pages folder</strong>
 <ul>
-<li>This folder contain some files that initiate all of page elements, also their action as objects.</li>
+<li>This folder contains some files that initiate all of page elements, also their action as objects.</li>
 </ul>
 </li>
 <li><strong>steps folder</strong>
 <ul>
-<li>This folder contain some files that initiate any reusable steps.</li>
+<li>This folder contains some files that initiate any reusable steps.</li>
 <li>Its steps should have direct relations to specific test files.</li>
 </ul>
 </li>
 <li><strong>tests folder</strong>
 <ul>
-<li>This folder contain some files that test cases executed.</li>
-<li>Its can also contain some reusable steps for specific test cases that use data-driven or gherkin language on the same test files.</li>
+<li>This folder contains some files that execute test cases.</li>
 </ul>
 </li>
 <li><strong>resource folder</strong>
